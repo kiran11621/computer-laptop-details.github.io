@@ -1,5 +1,5 @@
-const api_url = "https://computer-laptop-details.herokuapp.com/"
-//const api_url = "http://localhost:8080/stock"
+//const api_url = "https://computer-laptop-details.herokuapp.com/"
+const api_url = "http://localhost:8080/stock"
 
 function loadData(records = []) {
 	var table_data = "";
